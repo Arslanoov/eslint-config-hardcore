@@ -435,8 +435,6 @@
     "unicorn/consistent-destructuring": "error",
     "unicorn/no-array-push-push": "error",
     "unicorn/no-this-assignment": "error",
-    "unicorn/require-number-to-fixed-digits-argument": "error",
-    "unicorn/require-post-message-target-origin": "error",
     "unicorn/import-index": ["error", { "ignoreImports": true }],
 
     "array-func/from-map": "error",
