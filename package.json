@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-hardcore",
-  "version": "19.15.5",
+  "version": "19.15.6",
   "description": "The most strict (but practical) framework-agnostic ESLint config",
   "main": "index.json",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EvgenyOrekhov/eslint-config-hardcore.git"
+    "url": "git+https://github.com/Arslanoov/eslint-config-hardcore.git"
   },
   "keywords": [
     "eslint",
