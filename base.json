@@ -446,22 +446,7 @@
     "unicorn/no-array-method-this-argument": "error",
     "unicorn/require-post-message-target-origin": "error",
     "unicorn/prefer-prototype-methods": "error",
-
-    "unicorn/filename-case": [
-      "error",
-      { "cases": { "kebabCase": true, "camelCase": true, "pascalCase": true } }
-    ],
     "unicorn/import-index": ["error", { "ignoreImports": true }],
-    "unicorn/prevent-abbreviations": [
-      "error",
-      {
-        "allowList": {
-          "args": true,
-          "props": true
-        },
-        "checkShorthandProperties": true
-      }
-    ],
 
     "array-func/from-map": "error",
     "array-func/no-unnecessary-this-arg": "error",
